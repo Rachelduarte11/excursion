@@ -1,0 +1,48 @@
+/* universal style */
+body {
+    background-color: black;
+    color: white;
+    position: relative;
+    text-align: center;
+    font-family: "Verdana", sans-serif;
+    
+}
+
+
+h1 { 
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h5 {color:aquamarine;
+    font-size: 16px;
+    text-decoration: aquamarine underline;}
+
+/* containt */
+
+.guide h1 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    font-family: "verdana", sans-serif;
+    font-weight: 500;
+    color: gray;
+    font-size: 21px;
+    
+}
+ 
+/* Footer */
+
+.container-footer {
+    display: block;
+    padding-top: 50px;
+}
+
+/* end */
+.Foot h5 {
+    text-align: right;
+    color: gray;
+    text-decoration: none;
+}
